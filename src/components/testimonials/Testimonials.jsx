@@ -14,21 +14,21 @@ const Testimonials = () => {
         },
         {
             id: 2,
-            name: "Prabhat Mishra",
+            name: "Abhishek Singh",
             position: "Student",
             message:
                 "I've learned more here than in any other place. The interactive lessons and quizzes make learning enjoyable.",
             image:
-                "https://media.licdn.com/dms/image/v2/D5603AQEvLfyufJc5Ww/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724930599591?e=1732752000&v=beta&t=XlEgRGNLfjZ05RqhemWzkxAJqsFO3qJ8VIobeMWZvbA",
+                "https://media.licdn.com/dms/image/v2/D4D03AQG7z5f9Tr7fKA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702401917444?e=1732752000&v=beta&t=J3x17C9H1MIzoMj221zN8La4nthLGwORjwtzv_7boic",
         },
         {
             id: 3,
-            name: "Shri Krishna ",
+            name: "Abhiraj Chaudhry ",
             position: "Student",
             message:
                 "This platform helped me learn so effectively. The courses are amazing and the instructors are top-notch.",
             image:
-                "https://media.licdn.com/dms/image/v2/D5603AQGu_GzR7yexgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712497101980?e=1732752000&v=beta&t=ySwUXxevliVUa3C4incwFK9G7X2vJ7Qla7_QxgVYGuI",
+                "https://media.licdn.com/dms/image/v2/D4D03AQFSp47q6cHPNA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699942304552?e=1737590400&v=beta&t=QC7NHn9cvoHLZxFMAIH_WtLrmP5U1Ck2WIW2CO9oqCs",
         },
         {
             id: 4,
